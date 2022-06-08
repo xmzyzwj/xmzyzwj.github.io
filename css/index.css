@@ -1,0 +1,22 @@
+.box{
+    text-align: center;
+    font-family: 楷体;
+    }
+.BT{
+    text-align: center;
+    font:bolder xx-large 楷体;
+    height: 80px;
+}
+.time{
+    color: darkcyan;
+}
+.FBT{
+    font-size: x-large;
+}
+.Center{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 225px;
+}

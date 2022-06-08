@@ -1,0 +1,13 @@
+a{
+    text-align: center;
+    text-decoration: none;
+    color: #3366cc;
+}
+a:hover{
+    color: darkblue;
+    text-decoration: underline;
+}
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+}
